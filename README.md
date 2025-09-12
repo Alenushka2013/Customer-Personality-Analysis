@@ -1,2 +1,4 @@
 # Customer-Personality-Analysis
 Customer Personality Analysis is an analysis of different segments of a company's customers. This analysis allows a business to better understand its customers and facilitates the process of adapting products to the specific needs, behaviors, and interests of different types of customers.
+
+Customer profiling helps a business modify its product based on its target audience, which is divided into different segments. For example, instead of spending money on marketing a new product to all customers in the company's database, a business can analyze which customer segment is most likely to purchase the product and then focus marketing efforts on that segment only.
