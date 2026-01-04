@@ -72,8 +72,8 @@ Customer profiling helps a business modify its product based on its target audie
 ## 📊 Приклади візуалізацій
 
 *   ![Дендрограма (Ward Method)](images/DENDROGRAM%20WARD%20METHOD.jpg)
-*   [*Elbow Method графік*](https://github.com/Alenushka2013/Customer-Personality-Analysis/blob/main/images/Elbow%20Method.jpg)
-*   [*Scatter plot: Income vs MntWines*](https://github.com/Alenushka2013/Customer-Personality-Analysis/blob/main/images/Income%20vs%20MntWines.jpg)
+*   ![*Elbow Method графік*](images/Elbow%20Method.jpg)
+*   ![*Scatter plot: Income vs MntWines*](images/Income%20vs%20MntWines.jpg)
 
 ## 🚀 Як запустити проект
 
